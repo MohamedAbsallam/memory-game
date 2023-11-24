@@ -1,16 +1,16 @@
 # Memory-game
-Memory Game created with VANILLA Javascript
+Memory Game created with VANILLA JavaScript
 ## Instructor : [Osama Elzero](https://www.linkedin.com/in/osamaelzero/)
 ## Tutorial : [You Tube](https://www.youtube.com/watch?v=KRj4DFBTBkA)
 ## Preview Link:https://mohamedabsallam.github.io/Memory-game
 
 # Details:
-simple Web Game with Html, Css, Javascript
+simple Web Game with Html, Css, JavaScript
 
 # Used Tools:
-1.HTML5
-2.CSS3
-3.Javascript
+1. Html
+2. Css
+3. JavaScript
 
 Made with ❤️ By:
 ## Absallam
